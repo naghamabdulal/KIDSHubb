@@ -15,7 +15,7 @@
     </script>
 </head>
 <body>
-   <section class="imglo"> <img src="pic/l.png" alt="" >
+   <section class="imglo"> <img src="l.png" alt="" >
   
   </section>
     

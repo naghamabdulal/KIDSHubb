@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg">
         <a class="navbar-brand" href="#">
-          <img src="pic/l.png" alt="Logo" class="logo">
+          <img src="l.png" alt="Logo" class="logo">
         </a>
         
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -68,7 +68,7 @@
   <h1 class="heading1">Kids Recipe Generator </h1>
 
   <div class="row3">
-    <img class="img3" src="pic/vg.png" alt="">
+    <img class="img3" src="vg.png" alt="">
  
 <h3><p  class="parage">The Kids Recipe Generator is an interactive tool that helps parents and caregivers create fun, healthy, and easy-to-make recipes tailored to children's tastes and dietary needs. Whether you're looking for breakfast ideas, snacks, or dinner options,
    the generator provides a variety of kid-friendly recipes that are both nutritious and appealing to young appetites</p> </h3></div>
