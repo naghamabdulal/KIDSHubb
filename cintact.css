@@ -1,0 +1,87 @@
+.container {
+  display: flex;
+}
+
+body {
+  font-family: Arial, sans-serif;
+
+background-color: #713b65;
+  
+}
+.container {
+  padding-left: 750px;
+  padding-top: 130px;
+}
+label {
+  color: #a190a097;
+ 
+}
+form{
+  width: 500px;
+  margin-left: 400px;
+}
+/* b3dna l box 3n ba3d */
+.form-group {
+  margin-bottom: 20px;
+}
+.form-control:hover {
+  border: 2px solid #b691ab;
+  border-radius: 5px;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #bf7dac;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 200px;
+}
+.btn:hover {
+  background-color: #630c50;
+}
+
+h1 {
+  color: #b691ab;
+}
+span {
+  color: #7e89a9;
+}
+.head {
+  margin-top: 10px;
+  text-align: center;
+}
+.head h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.head h1 span {
+  color: #007bff;
+}
+
+.container {
+  padding: 20px;
+}
+
+form {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .head h1 {
+    font-size: 1.5rem;
+  }
+
+  .container {
+    padding: 10px;
+  }
+
+  button.btn {
+    width: 100%;
+  }
+}
